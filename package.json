@@ -8,5 +8,8 @@
     "socket.io": "^4.7.4",
     "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
